@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=b1 NewDesignator=BE1
+Change Component Designator: OldDesignator=b2 NewDesignator=BE2
+Added Member To Class: ClassName=智能车主板 Member=Component BE1 电机驱动接口*2

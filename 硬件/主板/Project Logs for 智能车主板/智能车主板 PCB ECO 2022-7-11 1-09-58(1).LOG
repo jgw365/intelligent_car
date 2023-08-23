@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetP8_2 Pin=R22-2
+Removed Pin From Net: NetName=D0 Pin=R23-2
+Removed Pin From Net: NetName=NetP8_1 Pin=R24-2
+Removed Pin From Net: NetName=D1 Pin=R25-2
+Removed Pin From Net: NetName=NetP9_2 Pin=R26-2
+Removed Pin From Net: NetName=D12 Pin=R27-2
+Removed Pin From Net: NetName=NetP9_1 Pin=R28-2
+Removed Pin From Net: NetName=Servo3 Pin=R29-1
+Removed Pin From Net: NetName=D13 Pin=R29-2
+Added Component: Designator=P8(6p)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=P9(6p)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP8_1 Pin=P8-1
+Added Pin To Net: NetName=NetP8_2 Pin=P8-2
+Added Pin To Net: NetName=3V3 Pin=P8-5
+Added Pin To Net: NetName=GND Pin=P8-6
+Added Pin To Net: NetName=NetP9_1 Pin=P9-1
+Added Pin To Net: NetName=NetP9_2 Pin=P9-2
+Added Pin To Net: NetName=Servo3 Pin=P9-4
+Added Pin To Net: NetName=3V3 Pin=P9-5
+Added Pin To Net: NetName=GND Pin=P9-6
+Added Pin To Net: NetName=NetP8_1 Pin=R22-2
+Added Pin To Net: NetName=D0 Pin=R23-1
+Added Pin To Net: NetName=NetP8_2 Pin=R23-2
+Added Pin To Net: NetName=D1 Pin=R25-1
+Added Pin To Net: NetName=NetP9_1 Pin=R26-2
+Added Pin To Net: NetName=D12 Pin=R27-1
+Added Pin To Net: NetName=NetP9_2 Pin=R27-2
+Added Pin To Net: NetName=D13 Pin=R29-1
+Added Pin To Net: NetName=Servo3 Pin=R29-2
+Added Pin To Net: NetName=NetP8_3 Pin=P8-3
+Added Pin To Net: NetName=NetP8_3 Pin=R24-2
+Added Net: Name=NetP8_3
+Added Pin To Net: NetName=NetP8_4 Pin=P8-4
+Added Pin To Net: NetName=NetP8_4 Pin=R25-2
+Added Net: Name=NetP8_4
+Added Pin To Net: NetName=NetP9_3 Pin=P9-3
+Added Pin To Net: NetName=NetP9_3 Pin=R28-2
+Added Net: Name=NetP9_3
+Added Member To Class: ClassName=智能车主板 Member=Component P8 HDR-1X6
+Added Member To Class: ClassName=智能车主板 Member=Component P9 HDR-1X6

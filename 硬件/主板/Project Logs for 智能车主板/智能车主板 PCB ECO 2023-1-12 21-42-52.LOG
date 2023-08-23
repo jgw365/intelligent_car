@@ -1,0 +1,8 @@
+Added Component: Designator=P19(KF/WJ/DG 301-2p-5.0mm)
+Added Component: Designator=P20(KF/WJ/DG 301-2p-5.0mm)
+Added Pin To Net: NetName=VCCBAT Pin=P19-1
+Added Pin To Net: NetName=GND Pin=P19-2
+Added Pin To Net: NetName=VCCBAT Pin=P20-1
+Added Pin To Net: NetName=GND Pin=P20-2
+Added Member To Class: ClassName=智能车主板 Member=Component P19 电机驱动接口*2
+Added Member To Class: ClassName=智能车主板 Member=Component P20 电机驱动接口*2

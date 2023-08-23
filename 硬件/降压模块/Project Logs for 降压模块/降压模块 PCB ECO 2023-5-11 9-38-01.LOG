@@ -1,0 +1,21 @@
+Added Component: Designator=C5(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190716/C342630_ADB15E5CCD286B86322CE8B53B7BBFDA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "CGA5L1X7R0J226MT0Y0E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "22uF ¡À20% 6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "CGA5L1X7R0J226MT0Y0E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C342630"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CGA5L1X7R0J226MT0Y0E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VOUT Pin=C5-2
+Added Member To Class: ClassName=½µÑ¹Ä£¿é Member=Component C5 100nF

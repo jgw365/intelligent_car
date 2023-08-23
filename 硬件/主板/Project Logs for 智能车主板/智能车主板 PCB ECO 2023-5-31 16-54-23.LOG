@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC_5V Pin=receive_UART3-2
+Removed Pin From Net: NetName=VCC_5V Pin=wifi_uart3-2
+Added Pin To Net: NetName=VCC_5V_EXT Pin=receive_UART3-2
+Added Pin To Net: NetName=VCC_5V_EXT Pin=wifi_uart3-2

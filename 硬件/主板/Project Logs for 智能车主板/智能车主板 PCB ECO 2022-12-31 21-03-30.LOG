@@ -1,0 +1,18 @@
+Added Component: Designator=C14(主板贴片水解电容)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C15(主板贴片水解电容)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=L2(主板功率电感)
+Added Pin To Net: NetName=VCC_5V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=NetC12_1 Pin=L2-1
+Added Pin To Net: NetName=VCC_5V Pin=L2-2
+Added Member To Class: ClassName=智能车主板 Member=Component C14 220uF
+Added Member To Class: ClassName=智能车主板 Member=Component C15 220uF
+Added Member To Class: ClassName=智能车主板 Member=Component L2 4.7uH

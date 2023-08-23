@@ -1,0 +1,12 @@
+Added Component: Designator=D3(主板ss54 sma)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Slkor(SLKORMICRO Elec.)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SS54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C513478"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SS54_C513478"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCCBAT Pin=D3-1
+Added Pin To Net: NetName=NetC15_1 Pin=D3-2
+Added Member To Class: ClassName=智能车主板 Member=Component D3 SS54

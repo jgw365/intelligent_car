@@ -1,0 +1,10 @@
+Added Component: Designator=U1(LC-SOIC-8_EP_150mil)
+Added Pin To Net: NetName=NetC4_2 Pin=U1-1
+Added Pin To Net: NetName=EN Pin=U1-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-3
+Added Pin To Net: NetName=NetR1_2 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetR4_2 Pin=U1-6
+Added Pin To Net: NetName=VIN Pin=U1-7
+Added Pin To Net: NetName=NetC4_1 Pin=U1-8
+Added Member To Class: ClassName=½µÑ¹Ä£¿é Member=Component U1 MP1584DN

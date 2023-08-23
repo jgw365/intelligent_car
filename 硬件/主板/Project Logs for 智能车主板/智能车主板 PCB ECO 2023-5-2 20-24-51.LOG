@@ -1,0 +1,19 @@
+Added Component: Designator=Q3(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L A Pin=Q3-1
+Added Pin To Net: NetName=L A Pin=Q3-2
+Added Pin To Net: NetName=L A Pin=Q3-3
+Added Pin To Net: NetName=G1 Pin=Q3-4
+Added Pin To Net: NetName=VCCBAT Pin=Q3-5
+Added Pin To Net: NetName=VCCBAT Pin=Q3-6
+Added Pin To Net: NetName=VCCBAT Pin=Q3-7
+Added Pin To Net: NetName=VCCBAT Pin=Q3-8
+Added Pin To Net: NetName=VCCBAT Pin=Q3-9
+Added Pin To Net: NetName=VCCBAT Pin=Q3-9
+Added Member To Class: ClassName=ÖÇÄÜ³µÖ÷°å Member=Component Q3 TPH1R403NL

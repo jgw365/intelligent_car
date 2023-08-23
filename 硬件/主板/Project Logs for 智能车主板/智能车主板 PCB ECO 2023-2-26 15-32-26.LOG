@@ -1,0 +1,23 @@
+Added Component: Designator=Q1(TO-252AA)
+Added Component: Designator=R14(0603R)
+Added Component: Designator=S6(逐飞黑开关)
+Add component (AddParameter): Name = "BOM名称"; Value = "MTS10x系列3脚扭子开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=T1(T插头)
+Added Pin To Net: NetName=VCCBAT Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetD1_2 Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=NetD1_2 Pin=S6-1
+Added Pin To Net: NetName=NetQ1_2 Pin=S6-2
+Added Pin To Net: NetName=NetD1_1 Pin=S6-3
+Added Pin To Net: NetName=NetD1_1 Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD1_K
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD1_A
+Added Member To Class: ClassName=智能车主板 Member=Component Q1 mos管
+Added Member To Class: ClassName=智能车主板 Member=Component R14 10K
+Added Member To Class: ClassName=智能车主板 Member=Component S6 单刀双置开关
+Added Member To Class: ClassName=智能车主板 Member=Component T1 T型插头

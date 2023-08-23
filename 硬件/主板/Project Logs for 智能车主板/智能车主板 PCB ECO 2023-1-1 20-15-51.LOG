@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=智能车主板 Member=battery1
+Change Component Designator: OldDesignator=battery1 NewDesignator=b1
+Change Component Designator: OldDesignator=battery2 NewDesignator=b2
+Added Member To Class: ClassName=智能车主板 Member=Component B1 BEEP

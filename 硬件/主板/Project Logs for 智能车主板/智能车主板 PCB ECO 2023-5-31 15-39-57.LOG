@@ -1,0 +1,36 @@
+Added Component: Designator=C8add(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C9add(0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C10add(CASE-A-3216  钽电容)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=U2add(SOT-23-5（rt9013-33）)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "RICHTEK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RT9013-33GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C47773"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RT9013-33GB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C8add-1
+Added Pin To Net: NetName=VCC_5V Pin=C8add-2
+Added Pin To Net: NetName=GND Pin=C9add-1
+Added Pin To Net: NetName=3V3 Pin=C9add-2
+Added Pin To Net: NetName=3V3 Pin=C10add-1
+Added Pin To Net: NetName=GND Pin=C10add-2
+Added Pin To Net: NetName=VCC_5V Pin=U2add-1
+Added Pin To Net: NetName=GND Pin=U2add-2
+Added Pin To Net: NetName=CR Pin=U2add-3
+Added Pin To Net: NetName=3V3 Pin=U2add-5
+Added Member To Class: ClassName=智能车主板 Member=Component C8add 100nF 50V
+Added Member To Class: ClassName=智能车主板 Member=Component C9add 100nF 50V
+Added Member To Class: ClassName=智能车主板 Member=Component C10add 10uF 16V
+Added Member To Class: ClassName=智能车主板 Member=Component U2add RT9013-33

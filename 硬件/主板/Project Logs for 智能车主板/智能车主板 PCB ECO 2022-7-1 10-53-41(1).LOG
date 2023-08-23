@@ -1,0 +1,7 @@
+Added Component: Designator=S4(轻触开关)
+Add component (AddParameter): Name = "BOM名称"; Value = "2脚轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR31_1 Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Member To Class: ClassName=智能车主板 Member=Component S4 6x6x5

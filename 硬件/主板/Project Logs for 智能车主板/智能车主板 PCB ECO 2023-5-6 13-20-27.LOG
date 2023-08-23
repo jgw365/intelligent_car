@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=SI_IN_all1-2
+Added Component: Designator=SH5(HDR1X3)
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SH5-1
+Added Pin To Net: NetName=VCC_IN Pin=SH5-2
+Added Pin To Net: NetName=SI_IN_5 Pin=SH5-3
+Added Pin To Net: NetName=SI_IN_5 Pin=SI_IN_all1-2
+Added Net: Name=SI_IN_5
+Added Member To Class: ClassName=智能车主板 Member=Component SH5 sh

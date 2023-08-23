@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DCT_VCC_12 Pin=Dsa3-1
+Removed Pin From Net: NetName=DCT_VCC_12 Pin=JPsa3-2
+Added Pin To Net: NetName=VCC_OUT Pin=Dsa3-1
+Added Pin To Net: NetName=VCC_OUT Pin=JPsa3-2

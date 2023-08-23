@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator= NewDesignator=S1
+Change Component Designator: OldDesignator=5V NewDesignator=P3
+Change Component Designator: OldDesignator=follow_uart3 NewDesignator=receive_UART3
+Change Component Designator: OldDesignator=GND NewDesignator=P2
+Change Component Designator: OldDesignator=main_send_uart4 NewDesignator=send_UART4
+Change Component Designator: OldDesignator=Main_wifi_uart3 NewDesignator=wifi_uart3
+Added Component: Designator=C27(C0603)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Member To Class: ClassName=智能车主板 Member=Component C27 100nF
+Added Member To Class: ClassName=智能车主板 Member=Component P2 HDR-1X8
+Added Member To Class: ClassName=智能车主板 Member=Component P3 Header 4X2
+Added Member To Class: ClassName=智能车主板 Member=Component receive_UART3 Header 4X2
+Added Member To Class: ClassName=智能车主板 Member=Component S1 编码开关
+Added Member To Class: ClassName=智能车主板 Member=Component send_UART4 HDR-1X3
+Added Member To Class: ClassName=智能车主板 Member=Component U6 SN74HC125PWR
+Added Member To Class: ClassName=智能车主板 Member=Component wifi_uart3 Header 4X2

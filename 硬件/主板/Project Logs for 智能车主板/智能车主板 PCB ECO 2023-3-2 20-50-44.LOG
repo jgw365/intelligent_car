@@ -1,0 +1,32 @@
+Added Component: Designator=U7(VQFN-24_L4.0-W4.0-P0.50-BL-EP2.8)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "DRV8701ERGER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C90964"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "DRV8701ERGER"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC27_2 Pin=U7-1
+Added Pin To Net: NetName=NetC31_2 Pin=U7-2
+Added Pin To Net: NetName=NetC26_2 Pin=U7-3
+Added Pin To Net: NetName=NetC26_1 Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-5
+Added Pin To Net: NetName=NetC29_2 Pin=U7-6
+Added Pin To Net: NetName=NetC29_2 Pin=U7-7
+Added Pin To Net: NetName=DVDD1 Pin=U7-8
+Added Pin To Net: NetName=NetC29_2 Pin=U7-12
+Added Pin To Net: NetName=nSLEEP1 Pin=U7-13
+Added Pin To Net: NetName=R_EN1 Pin=U7-14
+Added Pin To Net: NetName=R_PH1 Pin=U7-15
+Added Pin To Net: NetName=GND Pin=U7-16
+Added Pin To Net: NetName=G61 Pin=U7-17
+Added Pin To Net: NetName=R B1 Pin=U7-18
+Added Pin To Net: NetName=G81 Pin=U7-19
+Added Pin To Net: NetName=GND Pin=U7-20
+Added Pin To Net: NetName=GND Pin=U7-21
+Added Pin To Net: NetName=G71 Pin=U7-22
+Added Pin To Net: NetName=R A1 Pin=U7-23
+Added Pin To Net: NetName=G51 Pin=U7-24
+Added Pin To Net: NetName=GND Pin=U7-25
+Added Member To Class: ClassName=ÖÇÄÜ³µÖ÷°å Member=Component U7 DRV8701ERGER

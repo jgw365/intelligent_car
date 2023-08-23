@@ -1,0 +1,22 @@
+Added Component: Designator=bm1(HDR1X6)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=bm2(HDR1X6)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=bm1-1
+Added Pin To Net: NetName=GND Pin=bm1-2
+Added Pin To Net: NetName=B0 Pin=bm1-3
+Added Pin To Net: NetName=B1 Pin=bm1-4
+Added Pin To Net: NetName=B2 Pin=bm1-5
+Added Pin To Net: NetName=B3 Pin=bm1-6
+Added Pin To Net: NetName=3V3 Pin=bm2-1
+Added Pin To Net: NetName=GND Pin=bm2-2
+Added Pin To Net: NetName=B0 Pin=bm2-3
+Added Pin To Net: NetName=B1 Pin=bm2-4
+Added Pin To Net: NetName=B2 Pin=bm2-5
+Added Pin To Net: NetName=B3 Pin=bm2-6
+Added Member To Class: ClassName=智能车主板 Member=Component bm1 HDR-1X6
+Added Member To Class: ClassName=智能车主板 Member=Component bm2 HDR-1X6

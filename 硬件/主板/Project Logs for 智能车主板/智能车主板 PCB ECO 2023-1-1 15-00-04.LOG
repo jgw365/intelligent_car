@@ -1,0 +1,8 @@
+Added Component: Designator=C24(1206C)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=VCC_5V Pin=C24-2
+Added Member To Class: ClassName=智能车主板 Member=Component C24 47uF

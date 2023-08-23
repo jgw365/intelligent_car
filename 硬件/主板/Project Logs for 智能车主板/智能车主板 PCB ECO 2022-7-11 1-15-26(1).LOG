@@ -1,0 +1,32 @@
+Added Component: Designator=R22(0603R)
+Added Component: Designator=R23(0603R)
+Added Component: Designator=R24(0603R)
+Added Component: Designator=R25(0603R)
+Added Component: Designator=R26(0603R)
+Added Component: Designator=R27(0603R)
+Added Component: Designator=R28(0603R)
+Added Component: Designator=R29(0603R)
+Added Pin To Net: NetName=D2 Pin=R22-1
+Added Pin To Net: NetName=NetP8_1 Pin=R22-2
+Added Pin To Net: NetName=D0 Pin=R23-1
+Added Pin To Net: NetName=NetP8_2 Pin=R23-2
+Added Pin To Net: NetName=D3 Pin=R24-1
+Added Pin To Net: NetName=NetP8_3 Pin=R24-2
+Added Pin To Net: NetName=D1 Pin=R25-1
+Added Pin To Net: NetName=NetP8_4 Pin=R25-2
+Added Pin To Net: NetName=D14 Pin=R26-1
+Added Pin To Net: NetName=NetP9_1 Pin=R26-2
+Added Pin To Net: NetName=D12 Pin=R27-1
+Added Pin To Net: NetName=NetP9_2 Pin=R27-2
+Added Pin To Net: NetName=D15 Pin=R28-1
+Added Pin To Net: NetName=NetP9_3 Pin=R28-2
+Added Pin To Net: NetName=D13 Pin=R29-1
+Added Pin To Net: NetName=Servo3 Pin=R29-2
+Added Member To Class: ClassName=智能车主板 Member=Component R22 100R
+Added Member To Class: ClassName=智能车主板 Member=Component R23 100R
+Added Member To Class: ClassName=智能车主板 Member=Component R24 100R
+Added Member To Class: ClassName=智能车主板 Member=Component R25 100R
+Added Member To Class: ClassName=智能车主板 Member=Component R26 100R
+Added Member To Class: ClassName=智能车主板 Member=Component R27 100R
+Added Member To Class: ClassName=智能车主板 Member=Component R28 100R
+Added Member To Class: ClassName=智能车主板 Member=Component R29 100R

@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=P4 NewDesignator=uart3
+Change Component Designator: OldDesignator=P6 NewDesignator=uart4
+Change Component Designator: OldDesignator=P7 NewDesignator=uart1
+Added Pin To Net: NetName=B14 Pin=U10-30
+Added Net: Name=B14
+Added Pin To Net: NetName=B15 Pin=U10-28
+Added Net: Name=B15

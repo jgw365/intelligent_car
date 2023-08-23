@@ -1,0 +1,93 @@
+Added Component: Designator=C21_CSI(C0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C22_CSI(C0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C27_CSI(CASE-A-3216  钽电容)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=csi(HDR2X8)
+Add component (AddParameter): Name = "BOM名称"; Value = "8*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=RCSI(C0603)
+Added Component: Designator=UCSI(SOT-23-5（rt9013-33）)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "RICHTEK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RT9013-33GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C47773"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RT9013-33GB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C21_CSI-1
+Added Pin To Net: NetName=VCC_5V Pin=C21_CSI-2
+Added Pin To Net: NetName=GND Pin=C22_CSI-1
+Added Pin To Net: NetName=GND Pin=C27_CSI-2
+Added Pin To Net: NetName=GND Pin=csi-3
+Added Pin To Net: NetName=C28 Pin=csi-9
+Added Pin To Net: NetName=C29 Pin=csi-11
+Added Pin To Net: NetName=GND Pin=csi-13
+Added Pin To Net: NetName=GND Pin=RCSI-1
+Added Pin To Net: NetName=SI_IN_4 Pin=U10-69
+Added Pin To Net: NetName=SI_IN_5 Pin=U10-70
+Added Pin To Net: NetName=SI_IN_3 Pin=U10-72
+Added Pin To Net: NetName=SI_IN_2 Pin=U10-73
+Added Pin To Net: NetName=SI_IN_1 Pin=U10-75
+Added Pin To Net: NetName=VCC_5V Pin=UCSI-1
+Added Pin To Net: NetName=GND Pin=UCSI-2
+Added Pin To Net: NetName=CR Pin=UCSI-3
+Change Net Name : Old Net Name=SI_IN_1 New Net Name=C5
+Change Net Name : Old Net Name=SI_IN_2 New Net Name=C7
+Change Net Name : Old Net Name=SI_IN_3 New Net Name=C10
+Change Net Name : Old Net Name=SI_IN_4 New Net Name=C11
+Change Net Name : Old Net Name=SI_IN_5 New Net Name=C12
+Added Pin To Net: NetName=B20 Pin=csi-15
+Added Pin To Net: NetName=B20 Pin=U10-36
+Added Net: Name=B20
+Added Pin To Net: NetName=B22 Pin=csi-5
+Added Pin To Net: NetName=B22 Pin=U10-38
+Added Net: Name=B22
+Added Pin To Net: NetName=B24 Pin=csi-2
+Added Pin To Net: NetName=B24 Pin=U10-40
+Added Net: Name=B24
+Added Pin To Net: NetName=B25 Pin=csi-4
+Added Pin To Net: NetName=B25 Pin=U10-39
+Added Net: Name=B25
+Added Pin To Net: NetName=B26 Pin=csi-6
+Added Pin To Net: NetName=B26 Pin=U10-42
+Added Net: Name=B26
+Added Pin To Net: NetName=B27 Pin=csi-8
+Added Pin To Net: NetName=B27 Pin=U10-41
+Added Net: Name=B27
+Added Pin To Net: NetName=B28 Pin=csi-10
+Added Pin To Net: NetName=B28 Pin=U10-46
+Added Net: Name=B28
+Added Pin To Net: NetName=B29 Pin=csi-12
+Added Pin To Net: NetName=B29 Pin=U10-45
+Added Net: Name=B29
+Added Pin To Net: NetName=B30 Pin=csi-14
+Added Pin To Net: NetName=B30 Pin=U10-43
+Added Net: Name=B30
+Added Pin To Net: NetName=B31 Pin=csi-16
+Added Pin To Net: NetName=B31 Pin=U10-44
+Added Net: Name=B31
+Added Pin To Net: NetName=CSI_3V3 Pin=C22_CSI-2
+Added Pin To Net: NetName=CSI_3V3 Pin=C27_CSI-1
+Added Pin To Net: NetName=CSI_3V3 Pin=csi-1
+Added Pin To Net: NetName=CSI_3V3 Pin=UCSI-5
+Added Net: Name=CSI_3V3
+Added Pin To Net: NetName=Netcsi_7 Pin=csi-7
+Added Pin To Net: NetName=Netcsi_7 Pin=RCSI-2
+Added Net: Name=Netcsi_7
+Added Member To Class: ClassName=智能车主板 Member=Component C21_CSI 100NF 50V
+Added Member To Class: ClassName=智能车主板 Member=Component C22_CSI 100NF 50V 
+Added Member To Class: ClassName=智能车主板 Member=Component C27_CSI 10uF 16V
+Added Member To Class: ClassName=智能车主板 Member=Component csi Header 8X2
+Added Member To Class: ClassName=智能车主板 Member=Component RCSI 10K
+Added Member To Class: ClassName=智能车主板 Member=Component UCSI RT9013-33GB

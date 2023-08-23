@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=L B1 Pin=P20-1
+Removed Pin From Net: NetName=L A1 Pin=P20-2
+Added Component: Designator=C12(0603R)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CL21B106KOQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C95841"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "CL21B106KOQNNNE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=L A1 Pin=P20-1
+Added Pin To Net: NetName=L B1 Pin=P20-2
+Added Member To Class: ClassName=智能车主板 Member=Component C12 10uF
+Added Member To Class: ClassName=智能车主板 Member=Component P20 KF301-5.0-2P
+Added Member To Class: ClassName=智能车主板 Member=Component Q4 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q17 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component U9 SN74HC125PWR

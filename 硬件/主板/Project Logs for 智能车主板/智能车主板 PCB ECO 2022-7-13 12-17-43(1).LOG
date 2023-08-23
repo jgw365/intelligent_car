@@ -1,0 +1,11 @@
+Added Component: Designator=P9(6p)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP9_1 Pin=P9-1
+Added Pin To Net: NetName=NetP9_2 Pin=P9-2
+Added Pin To Net: NetName=NetP9_3 Pin=P9-3
+Added Pin To Net: NetName=Servo3 Pin=P9-4
+Added Pin To Net: NetName=3V3 Pin=P9-5
+Added Pin To Net: NetName=GND Pin=P9-6
+Added Member To Class: ClassName=智能车主板 Member=Component P9 HDR-1X6

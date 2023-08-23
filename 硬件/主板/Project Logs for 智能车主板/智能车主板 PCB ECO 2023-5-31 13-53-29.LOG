@@ -1,0 +1,29 @@
+Added Component: Designator=receive_UART3(HDR-2*4)
+Add component (AddParameter): Name = "BOM名称"; Value = "4*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=send_UART4(HDR1X3)
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=wifi_uart3(HDR-2*4)
+Add component (AddParameter): Name = "BOM名称"; Value = "4*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_5V Pin=receive_UART3-2
+Added Pin To Net: NetName=GND Pin=receive_UART3-4
+Added Pin To Net: NetName=C9 Pin=receive_UART3-6
+Added Pin To Net: NetName=C8 Pin=receive_UART3-8
+Added Pin To Net: NetName=C16 Pin=send_UART4-1
+Added Pin To Net: NetName=GND Pin=send_UART4-2
+Added Pin To Net: NetName=3V3 Pin=send_UART4-3
+Added Pin To Net: NetName=B14 Pin=wifi_uart3-1
+Added Pin To Net: NetName=VCC_5V Pin=wifi_uart3-2
+Added Pin To Net: NetName=GND Pin=wifi_uart3-3
+Added Pin To Net: NetName=GND Pin=wifi_uart3-4
+Added Pin To Net: NetName=B15 Pin=wifi_uart3-5
+Added Pin To Net: NetName=C9 Pin=wifi_uart3-6
+Added Pin To Net: NetName=C8 Pin=wifi_uart3-8
+Added Member To Class: ClassName=智能车主板 Member=Component receive_UART3 Header 4X2
+Added Member To Class: ClassName=智能车主板 Member=Component send_UART4 HDR-1X3
+Added Member To Class: ClassName=智能车主板 Member=Component wifi_uart3 Header 4X2

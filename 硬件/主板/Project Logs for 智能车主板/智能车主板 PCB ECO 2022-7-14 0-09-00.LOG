@@ -1,0 +1,4 @@
+Added Component: Designator=P106(KF/WJ/DG 301-2p-5.0mm)
+Added Pin To Net: NetName=VCCBAT Pin=P106-1
+Added Pin To Net: NetName=GND Pin=P106-2
+Added Member To Class: ClassName=智能车主板 Member=Component P106 电机驱动接口*2

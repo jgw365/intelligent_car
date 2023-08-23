@@ -1,0 +1,7 @@
+Added Component: Designator=Transer_4(MTxxVV10模块贴片封装)
+Added Pin To Net: NetName=DCT_VCC_12 Pin=Transer_4-1
+Added Pin To Net: NetName=DCT_VCC_12 Pin=Transer_4-2
+Added Pin To Net: NetName=DC_GND Pin=Transer_4-3
+Added Pin To Net: NetName=DC_GND Pin=Transer_4-4
+Added Pin To Net: NetName=DC_GND Pin=Transer_4-5
+Added Member To Class: ClassName=智能车主板 Member=Component Transer_4 MPSxxVV10,1

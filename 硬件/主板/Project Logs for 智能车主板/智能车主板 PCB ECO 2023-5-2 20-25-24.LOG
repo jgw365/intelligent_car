@@ -1,0 +1,304 @@
+Added Component: Designator=Q3(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q10(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q11(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q12(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q13(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q14(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q15(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q16(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q17(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Component: Designator=Q18(DSOP-8_L5.0-W5.0-P1.27-EP-TL)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOSHIBA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C83440"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TPH1R403NL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L A Pin=Q3-1
+Added Pin To Net: NetName=L A Pin=Q3-2
+Added Pin To Net: NetName=L A Pin=Q3-3
+Added Pin To Net: NetName=G1 Pin=Q3-4
+Added Pin To Net: NetName=VCCBAT Pin=Q3-5
+Added Pin To Net: NetName=VCCBAT Pin=Q3-6
+Added Pin To Net: NetName=VCCBAT Pin=Q3-7
+Added Pin To Net: NetName=VCCBAT Pin=Q3-8
+Added Pin To Net: NetName=VCCBAT Pin=Q3-9
+Added Pin To Net: NetName=VCCBAT Pin=Q3-9
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=G3 Pin=Q4-4
+Added Pin To Net: NetName=L A Pin=Q4-5
+Added Pin To Net: NetName=L A Pin=Q4-6
+Added Pin To Net: NetName=L A Pin=Q4-7
+Added Pin To Net: NetName=L A Pin=Q4-8
+Added Pin To Net: NetName=L A Pin=Q4-9
+Added Pin To Net: NetName=L A Pin=Q4-9
+Added Pin To Net: NetName=L B Pin=Q5-1
+Added Pin To Net: NetName=L B Pin=Q5-2
+Added Pin To Net: NetName=L B Pin=Q5-3
+Added Pin To Net: NetName=G2 Pin=Q5-4
+Added Pin To Net: NetName=VCCBAT Pin=Q5-5
+Added Pin To Net: NetName=VCCBAT Pin=Q5-6
+Added Pin To Net: NetName=VCCBAT Pin=Q5-7
+Added Pin To Net: NetName=VCCBAT Pin=Q5-8
+Added Pin To Net: NetName=VCCBAT Pin=Q5-9
+Added Pin To Net: NetName=VCCBAT Pin=Q5-9
+Added Pin To Net: NetName=GND Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=G4 Pin=Q6-4
+Added Pin To Net: NetName=L B Pin=Q6-5
+Added Pin To Net: NetName=L B Pin=Q6-6
+Added Pin To Net: NetName=L B Pin=Q6-7
+Added Pin To Net: NetName=L B Pin=Q6-8
+Added Pin To Net: NetName=L B Pin=Q6-9
+Added Pin To Net: NetName=L B Pin=Q6-9
+Added Pin To Net: NetName=R A Pin=Q7-1
+Added Pin To Net: NetName=R A Pin=Q7-2
+Added Pin To Net: NetName=R A Pin=Q7-3
+Added Pin To Net: NetName=G5 Pin=Q7-4
+Added Pin To Net: NetName=VCCBAT Pin=Q7-5
+Added Pin To Net: NetName=VCCBAT Pin=Q7-6
+Added Pin To Net: NetName=VCCBAT Pin=Q7-7
+Added Pin To Net: NetName=VCCBAT Pin=Q7-8
+Added Pin To Net: NetName=VCCBAT Pin=Q7-9
+Added Pin To Net: NetName=VCCBAT Pin=Q7-9
+Added Pin To Net: NetName=GND Pin=Q8-1
+Added Pin To Net: NetName=GND Pin=Q8-2
+Added Pin To Net: NetName=GND Pin=Q8-3
+Added Pin To Net: NetName=G7 Pin=Q8-4
+Added Pin To Net: NetName=R A Pin=Q8-5
+Added Pin To Net: NetName=R A Pin=Q8-6
+Added Pin To Net: NetName=R A Pin=Q8-7
+Added Pin To Net: NetName=R A Pin=Q8-8
+Added Pin To Net: NetName=R A Pin=Q8-9
+Added Pin To Net: NetName=R A Pin=Q8-9
+Added Pin To Net: NetName=R B Pin=Q9-1
+Added Pin To Net: NetName=R B Pin=Q9-2
+Added Pin To Net: NetName=R B Pin=Q9-3
+Added Pin To Net: NetName=G6 Pin=Q9-4
+Added Pin To Net: NetName=VCCBAT Pin=Q9-5
+Added Pin To Net: NetName=VCCBAT Pin=Q9-6
+Added Pin To Net: NetName=VCCBAT Pin=Q9-7
+Added Pin To Net: NetName=VCCBAT Pin=Q9-8
+Added Pin To Net: NetName=VCCBAT Pin=Q9-9
+Added Pin To Net: NetName=VCCBAT Pin=Q9-9
+Added Pin To Net: NetName=GND Pin=Q10-1
+Added Pin To Net: NetName=GND Pin=Q10-2
+Added Pin To Net: NetName=GND Pin=Q10-3
+Added Pin To Net: NetName=G8 Pin=Q10-4
+Added Pin To Net: NetName=R B Pin=Q10-5
+Added Pin To Net: NetName=R B Pin=Q10-6
+Added Pin To Net: NetName=R B Pin=Q10-7
+Added Pin To Net: NetName=R B Pin=Q10-8
+Added Pin To Net: NetName=R B Pin=Q10-9
+Added Pin To Net: NetName=R B Pin=Q10-9
+Added Pin To Net: NetName=L A1 Pin=Q11-1
+Added Pin To Net: NetName=L A1 Pin=Q11-2
+Added Pin To Net: NetName=L A1 Pin=Q11-3
+Added Pin To Net: NetName=G11 Pin=Q11-4
+Added Pin To Net: NetName=VCCBAT Pin=Q11-5
+Added Pin To Net: NetName=VCCBAT Pin=Q11-6
+Added Pin To Net: NetName=VCCBAT Pin=Q11-7
+Added Pin To Net: NetName=VCCBAT Pin=Q11-8
+Added Pin To Net: NetName=VCCBAT Pin=Q11-9
+Added Pin To Net: NetName=VCCBAT Pin=Q11-9
+Added Pin To Net: NetName=GND Pin=Q12-1
+Added Pin To Net: NetName=GND Pin=Q12-2
+Added Pin To Net: NetName=GND Pin=Q12-3
+Added Pin To Net: NetName=G31 Pin=Q12-4
+Added Pin To Net: NetName=L A1 Pin=Q12-5
+Added Pin To Net: NetName=L A1 Pin=Q12-6
+Added Pin To Net: NetName=L A1 Pin=Q12-7
+Added Pin To Net: NetName=L A1 Pin=Q12-8
+Added Pin To Net: NetName=L A1 Pin=Q12-9
+Added Pin To Net: NetName=L A1 Pin=Q12-9
+Added Pin To Net: NetName=L B1 Pin=Q13-1
+Added Pin To Net: NetName=L B1 Pin=Q13-2
+Added Pin To Net: NetName=L B1 Pin=Q13-3
+Added Pin To Net: NetName=G21 Pin=Q13-4
+Added Pin To Net: NetName=VCCBAT Pin=Q13-5
+Added Pin To Net: NetName=VCCBAT Pin=Q13-6
+Added Pin To Net: NetName=VCCBAT Pin=Q13-7
+Added Pin To Net: NetName=VCCBAT Pin=Q13-8
+Added Pin To Net: NetName=VCCBAT Pin=Q13-9
+Added Pin To Net: NetName=VCCBAT Pin=Q13-9
+Added Pin To Net: NetName=GND Pin=Q14-1
+Added Pin To Net: NetName=GND Pin=Q14-2
+Added Pin To Net: NetName=GND Pin=Q14-3
+Added Pin To Net: NetName=G41 Pin=Q14-4
+Added Pin To Net: NetName=L B1 Pin=Q14-5
+Added Pin To Net: NetName=L B1 Pin=Q14-6
+Added Pin To Net: NetName=L B1 Pin=Q14-7
+Added Pin To Net: NetName=L B1 Pin=Q14-8
+Added Pin To Net: NetName=L B1 Pin=Q14-9
+Added Pin To Net: NetName=L B1 Pin=Q14-9
+Added Pin To Net: NetName=R A1 Pin=Q15-1
+Added Pin To Net: NetName=R A1 Pin=Q15-2
+Added Pin To Net: NetName=R A1 Pin=Q15-3
+Added Pin To Net: NetName=G51 Pin=Q15-4
+Added Pin To Net: NetName=VCCBAT Pin=Q15-5
+Added Pin To Net: NetName=VCCBAT Pin=Q15-6
+Added Pin To Net: NetName=VCCBAT Pin=Q15-7
+Added Pin To Net: NetName=VCCBAT Pin=Q15-8
+Added Pin To Net: NetName=VCCBAT Pin=Q15-9
+Added Pin To Net: NetName=VCCBAT Pin=Q15-9
+Added Pin To Net: NetName=NetQ16_1 Pin=Q16-1
+Added Pin To Net: NetName=NetQ16_1 Pin=Q16-2
+Added Pin To Net: NetName=NetQ16_1 Pin=Q16-3
+Added Pin To Net: NetName=G71 Pin=Q16-4
+Added Pin To Net: NetName=R A1 Pin=Q16-5
+Added Pin To Net: NetName=R A1 Pin=Q16-6
+Added Pin To Net: NetName=R A1 Pin=Q16-7
+Added Pin To Net: NetName=R A1 Pin=Q16-8
+Added Pin To Net: NetName=R A1 Pin=Q16-9
+Added Pin To Net: NetName=R A1 Pin=Q16-9
+Added Pin To Net: NetName=R B1 Pin=Q17-1
+Added Pin To Net: NetName=R B1 Pin=Q17-2
+Added Pin To Net: NetName=R B1 Pin=Q17-3
+Added Pin To Net: NetName=G61 Pin=Q17-4
+Added Pin To Net: NetName=VCCBAT Pin=Q17-5
+Added Pin To Net: NetName=VCCBAT Pin=Q17-6
+Added Pin To Net: NetName=VCCBAT Pin=Q17-7
+Added Pin To Net: NetName=VCCBAT Pin=Q17-8
+Added Pin To Net: NetName=VCCBAT Pin=Q17-9
+Added Pin To Net: NetName=VCCBAT Pin=Q17-9
+Added Pin To Net: NetName=NetQ16_1 Pin=Q18-1
+Added Pin To Net: NetName=NetQ16_1 Pin=Q18-2
+Added Pin To Net: NetName=NetQ16_1 Pin=Q18-3
+Added Pin To Net: NetName=G81 Pin=Q18-4
+Added Pin To Net: NetName=R B1 Pin=Q18-5
+Added Pin To Net: NetName=R B1 Pin=Q18-6
+Added Pin To Net: NetName=R B1 Pin=Q18-7
+Added Pin To Net: NetName=R B1 Pin=Q18-8
+Added Pin To Net: NetName=R B1 Pin=Q18-9
+Added Pin To Net: NetName=R B1 Pin=Q18-9
+Added Member To Class: ClassName=智能车主板 Member=Component Q3 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q4 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q5 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q6 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q7 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q8 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q9 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q10 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q11 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q12 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q13 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q14 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q15 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q16 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q17 TPH1R403NL
+Added Member To Class: ClassName=智能车主板 Member=Component Q18 TPH1R403NL

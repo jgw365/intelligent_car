@@ -1,0 +1,4 @@
+Added Component: Designator=T1(T插头)
+Added Pin To Net: NetName=NetD1_K Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Member To Class: ClassName=智能车主板 Member=Component T1 T型插头
